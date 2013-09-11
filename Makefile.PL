@@ -23,7 +23,7 @@ requires 'Sub::Install'   => '0';
 
 resources(
     'license'    => 'http://dev.perl.org/licenses/',
-    'repository' => 'git@github.com:mrRico/Template-Parser-RemoteInclude.git',
+    'repository' => 'git://github.com/mrRico/Template-Parser-RemoteInclude.git',
 );
 
 auto_install;
